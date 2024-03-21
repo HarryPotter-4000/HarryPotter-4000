@@ -1,3 +1,5 @@
+<p align="center">🦖 My new (second) GitHub profile: https://github.com/kate-prakofyeva</p>
+
 <h1 align="center">Hi 👋, I'm Catherine</h1>
 <h3 align="center">a passionate full stack developer</h3>
 <br>
@@ -67,6 +69,8 @@
   </a>
 </p>
 <br>
+
+- 🦖 My new (second) GitHub profile: https://github.com/kate-prakofyeva
 
 - 🌱 I’m currently learning **NextJS**
 
